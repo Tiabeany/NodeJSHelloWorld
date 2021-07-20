@@ -1,0 +1,23 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Reviewing the basics of Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiabeany/NodeJSHelloWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiabeany/NodeJSHelloWorld/issues"
+  },
+  "homepage": "https://github.com/Tiabeany/NodeJSHelloWorld#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
